@@ -1,0 +1,31 @@
+.creative{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color: #daaaf2;
+    text-align:center;
+}
+
+h1{
+    font-style:italic;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+}
+
+h4{
+    color:#f777a6;
+}
+
+#camera{
+    width:500px;
+    height: 400px;
+    border:2px solid aquamarine;
+}
+
+img{
+    width:37%;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow:5px 5px 8px aqua;
+
+}
